@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/temp_action"
+        android:title="@string/temp"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/temp"
+        android:menuCategory="container"/>
+    <item
+        android:id="@+id/solar_action"
+        android:title="@string/solar"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/sol"
+        android:menuCategory="container"/>
+    <item
+        android:id="@+id/eolica_action"
+        android:title="@string/eolica"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/viento"
+        android:menuCategory="container"/>
+</menu>

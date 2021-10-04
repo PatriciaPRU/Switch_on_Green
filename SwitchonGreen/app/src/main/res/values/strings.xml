@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Switch on Green</string>
+    <string name="temp">Ver temperatura</string>
+    <string name="solar">Energia solar</string>
+    <string name="eolica">Energia Eolica</string>
+    <string name="messagemap">Mantenga presionado el puntero y arrastre para seleccionar un punto en el mapa</string>
+</resources>
